@@ -57,7 +57,7 @@ KisanSetu Direct is a farmer-first marketplace for transparent produce listings,
 
 A modular MVP web app with REST APIs, PostgreSQL data storage, deterministic matching, and an optimization service. ML complexity grows only after sufficient reliable data is collected.
 
-## Proposed stack
+## Technology Stack
 
 1. Frontend: React and TypeScript for a responsive mobile-friendly application.
 2. Backend: Python FastAPI for server-side operations and REST APIs.
@@ -72,6 +72,9 @@ A modular MVP web app with REST APIs, PostgreSQL data storage, deterministic mat
 
 <img width="1088" height="1280" alt="image" src="https://github.com/user-attachments/assets/f1a92ed2-c164-42fe-84fb-5e467419af7c" />
 
+## KisanSetu Direct: End-to-End Technical Approach & Data Flow
+
+<img width="1024" height="604" alt="image" src="https://github.com/user-attachments/assets/a4728e78-5a48-45dc-851d-ccf8a196f283" />
 
 
 ## Implementation Process:
