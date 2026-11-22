@@ -65,7 +65,8 @@ A modular MVP web app with REST APIs, PostgreSQL data storage, deterministic mat
 
 ##Architecture diagram
 
-![Uploading image.png…]()
+<img width="1088" height="1280" alt="image" src="https://github.com/user-attachments/assets/f1a92ed2-c164-42fe-84fb-5e467419af7c" />
+
 
 
 ##Implementation Process:
@@ -96,7 +97,7 @@ collected data and measurable results.
 5. Demand Forecasting: Basic forecasting is possible using historical sales and seasonal data.
 6. Future Integration: Payment gateways, market prices, and transportation services can be added gradually through modular development.
 
-##Risks and Mitigation
+## Risks and Mitigation
 
 - Insufficient Data: Start with basic forecasting and improve it as data grows.
 - Network Issues: Provide a lightweight, mobile-friendly application.
@@ -106,13 +107,13 @@ collected data and measurable results.
 
 <img width="1280" height="793" alt="image" src="https://github.com/user-attachments/assets/3da2bebc-f434-4c1e-a7a3-e1023cb333b8" />
 
-##Viability
+## Viability
 
 Potential revenue: transparent transaction fee, optional logistics coordination fee, or institutional buyer subscription. Pilot unit economics must be validated and fees must be disclosed before farmer acceptance.
 
 ## Impact and Benefits
 
-##Target audience
+## Target audience
 
 * Small and marginal farmers
 * Farmer Producer Organizations (FPOs)
@@ -135,7 +136,7 @@ Environmental Impact.
 * Helps farmers plan harvesting using demand forecasts.
   give 10 lines
 
-##Impact and Benefits
+## Benefits
 
 1.Helps farmers receive better prices for their produce.
 2.Provides transparent price comparisons for buyers and farmers.
