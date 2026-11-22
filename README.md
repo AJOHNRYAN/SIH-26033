@@ -143,16 +143,16 @@ Environmental Impact.
 
 ## Benefits
 
-1.Helps farmers receive better prices for their produce.
-2.Provides transparent price comparisons for buyers and farmers.
-3.Reduces transportation costs through bulk deliveries.
-4.Connects small farmers with wider markets.
-5.Supports regional languages and easy platform access.
-6.Reduces unnecessary transportation trips.
-7.Minimizes food wastage through freshness-based matching.
-8.Improves transparency through real-time order tracking.
-9.Helps farmers plan harvesting using demand forecasts.
-10.Creates an efficient and sustainable agricultural supply chain.
+    1.Helps farmers receive better prices for their produce.
+    2.Provides transparent price comparisons for buyers and farmers.
+    3.Reduces transportation costs through bulk deliveries.
+    4.Connects small farmers with wider markets.
+    5.Supports regional languages and easy platform access.
+    6.Reduces unnecessary transportation trips.
+    7.Minimizes food wastage through freshness-based matching.
+    8.Improves transparency through real-time order tracking.
+    9.Helps farmers plan harvesting using demand forecasts.
+    10.Creates an efficient and sustainable agricultural supply chain.
 
 
 ## Research and References
