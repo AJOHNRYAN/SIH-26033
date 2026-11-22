@@ -68,7 +68,7 @@ A modular MVP web app with REST APIs, PostgreSQL data storage, deterministic mat
 7. Notifications: SMS, email, and push notifications for alerts and updates.
 8. Deployment: Docker, cloud hosting, TLS security, database backups, and monitoring.
 
-##Architecture diagram
+## Architecture diagram
 
 <img width="1088" height="1280" alt="image" src="https://github.com/user-attachments/assets/f1a92ed2-c164-42fe-84fb-5e467419af7c" />
 
