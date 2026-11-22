@@ -42,10 +42,15 @@ KisanSetu Direct is a farmer-first marketplace for transparent produce listings,
 ## Innovation and uniqueness of the solution
 
 *Smart Freshness-Based Matching: Matches agricultural products according to harvesting schedules, freshness levels, and delivery deadlines.
+
 *FPO-Based Bulk Collection: Brings together produce from small and marginal farmers through FPO centres to fulfill large institutional requirements.
+
 *Intelligent Recommendation System: Suggests suitable buyers and transportation routes by evaluating quantity, distance, vehicle availability, product freshness, and delivery time.
+
 *Farmer Price Protection: Allows farmers to set their own minimum expected earnings and prevents acceptance of offers below their chosen price limit.
+
 *Accessible Digital Platform: Offers a mobile-friendly interface with regional language support, simple onboarding assistance, and smooth operation on low-speed internet connections.
+
 *Food Waste Reduction System: Gives priority to agricultural lots nearing their freshness deadlines to ensure faster distribution and reduce post-harvest wastage.
 
 ## Technical Approach
