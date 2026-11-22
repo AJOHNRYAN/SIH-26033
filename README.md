@@ -33,11 +33,11 @@ KisanSetu Direct is a farmer-first marketplace for transparent produce listings,
 
 ## How it addresses the problem
 
-  * Establishes a direct connection between agricultural producers and buyers, minimizing dependence on        traditional middlemen.
-  * Combines produce from multiple small-scale farmers to meet large-volume purchasing requirements.
-  * Provides clear pricing details, allowing farmers to understand their actual earnings after deductions.
-  * Uses advance market-demand insights to support better crop planning and minimize excess production.
-  * Organizes shared transportation and bulk deliveries to lower shipping expenses and minimize post-          harvest losses. 
+    * Establishes a direct connection between agricultural producers and buyers, minimizing dependence on        traditional middlemen.
+    * Combines produce from multiple small-scale farmers to meet large-volume purchasing requirements.
+    * Provides clear pricing details, allowing farmers to understand their actual earnings after                 deductions.
+    * Uses advance market-demand insights to support better crop planning and minimize excess production.
+    * Organizes shared transportation and bulk deliveries to lower shipping expenses and minimize post-          harvest losses. 
 
 ## Innovation and uniqueness of the solution
 
