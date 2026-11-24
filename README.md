@@ -91,7 +91,8 @@ collected data and measurable results.
 
 ## Order and logistics sequence
 
-<img width="1280" height="793" alt="image" src="https://github.com/user-attachments/assets/1f17c664-d0fa-4d21-a9f5-5d4ea7e0e6ae" />
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/7e5c46f0-abbc-4284-9e78-f6b9fa189bf7" />
+
 
 
 
